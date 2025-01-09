@@ -29,12 +29,9 @@ This is a simple web application that displays a random quote every time the pag
 1. Clone the repository.
 2. Run `bundle install` to install dependencies.
 3. Start the server using `ruby app.rb`.
-4. Open `http://localhost:4567` in your browser.
 
 ## Technologies Used
 - Ruby with Sinatra framework
 - CSS for styling
 - Quotable API for fetching quotes
-
-## Future Enhancements
 - Implement a "Quote of the Day" logic to show one quote per day.
